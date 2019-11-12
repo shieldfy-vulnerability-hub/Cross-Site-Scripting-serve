@@ -1,4 +1,4 @@
-# Cross-Site Scripting @ serve
+# Cross-Site Scripting @ serve package
 - module : serve
 - version : < 10.0.2
 - severity: Medium
